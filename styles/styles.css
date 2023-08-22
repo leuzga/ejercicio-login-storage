@@ -92,3 +92,7 @@ small {
 .hidden {
   display: none !important;
 }
+
+.error {
+  color: #ec183f;
+}
